@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manoj20003, welcome to my GitHub profile. I am passionate coding enthusiast who likes learning new concepts and applying them to real and exciting projects. I am eager to work on unique and challenging projects to apply and improve my skills.
+👋 Hi, I’m @Manoj20003, welcome to my GitHub profile. I am passionate coding enthusiast who likes learning new concepts and applying them to real and exciting projects. I am eager to work on unique and challenging projects to apply and improve my skills.
 
 
 🌱 Currently Learning: Python, C, HTML, CSS, JavaScript
