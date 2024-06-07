@@ -2,8 +2,11 @@
 
 
 🌱 Currently Learning: Python, C, HTML, CSS, JavaScript
+
 🔭 Looking to Collaborate On: Open-source projects, anything interesting and challenging
+
 👯 Open to Group Projects: I am always looking for group projects where I can contribute and learn at the same time.
+
 💡 Interests: Web development, software engineering, AI and machine learning. 
 
 
