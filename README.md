@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @Manoj20003, I started learning programming recently and am interested in working on any open source or group projects, I am learnt Python, C, HTML, CSS and javascript. 
+- 👋 Hi, I’m @Manoj20003, welcome to my GitHub profile. I am passionate coding enthusiast who likes learning new concepts and applying them to real and exciting projects. I am eager to work on unique and challenging projects to apply and improve my skills.
+
+
+🌱 Currently Learning: Python, C, HTML, CSS, JavaScript
+🔭 Looking to Collaborate On: Open-source projects, anything interesting and challenging
+👯 Open to Group Projects: I am always looking for group projects where I can contribute and learn at the same time.
+💡 Interests: Web development, software engineering, AI and machine learning. 
 
 
 
